@@ -1,2 +1,2 @@
 # TwitterSentimentAnalysis
-COMP7305 
+HKU COMP7305 
